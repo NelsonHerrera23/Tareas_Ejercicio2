@@ -6,7 +6,7 @@ import android.os.Bundle;
 import android.widget.EditText;
 
 public class MainActivity2 extends AppCompatActivity {
-//prueba
+
     EditText resultado, res2, res3, res4;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
